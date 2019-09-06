@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<title>
+		<en>Hello</en>
+		<fi>Moro</fi>
+		<fr>Bonjour</fr>
+		<ch>您好</ch>
+	</title>
+	
+	<text>
+		<en>English text.</en>
+		<fi>Suomi texti hohoh.</fi>
+		<fr>Le Paguette ah hon hon hon.</fr>
+		<ch>看不懂吧，看不懂就对啦</ch>
+	</text>
+</root>
